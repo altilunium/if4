@@ -10,20 +10,11 @@ Once the separation is complete, the paper strip is removed from the apparatus a
 
 ### Procedure
 
-1. Prepare the Electrophoresis Chamber
-Begin by filling the compartments of the electrophoresis apparatus with a Tris buffer solution at a concentration of 0.07 M and a pH of 7.6. Tris buffer (short for tris(hydroxymethyl)aminomethane) is commonly used because it maintains a stable pH, ensuring that the amino acids stay in the desired ionization state during separation.
-
-2. Apply the Amino Acid Solution 
-Carefully place 10 to 20 microliters (μl) of the amino acid solution onto the center of the filter paper strip. This small volume (1 microliter = one-millionth of a liter) allows for precise application without causing the spot to spread too widely, which would blur the separation. The solution should have a concentration of about 1.0 mg/ml in Tris buffer, providing enough analyte for clear detection.
-
-3. Moisten the Paper with Buffer
-Evenly wet the filter paper with the same Tris buffer solution. This ensures good electrical conductivity along the paper and helps maintain a consistent pH environment throughout the run.
-
-4. Run the Electrophoresis
-Connect the apparatus to a direct current (DC) power supply. Perform the electrophoresis for approximately 3 hours at a field strength of 8 volts per centimeter of paper length. For example, if your paper strip is 20 centimeters long, set the voltage to around 160 volts. This voltage gradient provides enough force to drive the migration of amino acids without overheating or damaging the paper.
-
-5. Visualize the Separated Spots
-Once the run is complete, remove the paper and gently spray it with ninhydrin reagent. Ninhydrin reacts with free amino groups in the amino acids to form colored complexes. Allow the paper to air dry overnight in a well-ventilated area, or accelerate color development by heating it at 100 °C for 5 to 10 minutes. The separated amino acids will appear as distinct blue or purple spots, each corresponding to a different amino acid in the mixture. Examine the Rf value for each separated spot on the paper.  Then, compare these values with this reference data  : 
+1. Prepare the Electrophoresis Chamber : Begin by filling the compartments of the electrophoresis apparatus with a Tris buffer solution at a concentration of 0.07 M and a pH of 7.6. Tris buffer (short for tris(hydroxymethyl)aminomethane) is commonly used because it maintains a stable pH, ensuring that the amino acids stay in the desired ionization state during separation.
+2. Apply the Amino Acid Solution : Carefully place 10 to 20 microliters (μl) of the amino acid solution onto the center of the filter paper strip. This small volume (1 microliter = one-millionth of a liter) allows for precise application without causing the spot to spread too widely, which would blur the separation. The solution should have a concentration of about 1.0 mg/ml in Tris buffer, providing enough analyte for clear detection.
+3. Moisten the Paper with Buffer : Evenly wet the filter paper with the same Tris buffer solution. This ensures good electrical conductivity along the paper and helps maintain a consistent pH environment throughout the run.
+4. Run the Electrophoresis : Connect the apparatus to a direct current (DC) power supply. Perform the electrophoresis for approximately 3 hours at a field strength of 8 volts per centimeter of paper length. For example, if your paper strip is 20 centimeters long, set the voltage to around 160 volts. This voltage gradient provides enough force to drive the migration of amino acids without overheating or damaging the paper.
+5. Visualize the Separated Spots: Once the run is complete, remove the paper and gently spray it with ninhydrin reagent. Ninhydrin reacts with free amino groups in the amino acids to form colored complexes. Allow the paper to air dry overnight in a well-ventilated area, or accelerate color development by heating it at 100 °C for 5 to 10 minutes. The separated amino acids will appear as distinct blue or purple spots, each corresponding to a different amino acid in the mixture. Examine the Rf value for each separated spot on the paper.  Then, compare these values with this reference data  : 
 
 | **Amino Acid** | **Rf × 100 (in n-butanol : acetic acid : water = 4:1:1)** | **Color with Ninhydrin** |
 | -------------- | --------------------------------------------------------- | ------------------------ |
