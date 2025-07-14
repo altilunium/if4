@@ -1,0 +1,21 @@
+Helvetica was developed by the Haas Foundry of Switzerland in the 1950s. Later, Haas merged with Linotype and Helvetica was heavily promoted. More weights were added and it really began to catch on. Throughout the latter half of the twentieth century, one of the most popular typefaces in the western world was Helvetica. 
+
+An icon of the Swiss school of typography, Helvetica swept through the design world in the '60s and became synonymous with modern, progressive, cosmopolitan attitudes. It was universally embraced for a time by both the corporate and design worlds as a nearly perfect typeface to be used for anything and everything. "When in doubt, use Helvetica" was a common rule.
+
+In the early '80s, when Adobe developed the PostScript page description language, it was no surprise that they chose Helvetica as one of the basic four fonts to be included with every PostScript interpreter they licensed (along with Times, Courier and Symbol). Adobe licensed its fonts from the original foundries. They perhaps realized that if they had used knock-offs of popular typefaces, the professional graphic arts industry -- a key market -- would not accept them.
+
+By the late eighties, the desktop publishing phenomenon was in full swing. Led by the Macintosh, PageMaker, and Adobe's PostScript page description language, anyone could no near professional-quality typesetting on relatively inexpensive personal computers. But there was a problem. There were two kinds of PostScript fonts : Type 1 and Type 3. Type 1 fonts included "hints" that improved the quality of output dramatically over Type 3 fonts. Adobe provided information on making Type 3 fonts, but kept the secrets of the superior Type 1 font technology to itself. If you wanted Type 1 fonts, Adobe was the only source. Anyone else who wanted to make or sell fonts had to settle for the inferior Type 3 format. Adobe wanted the high end of the market all to itself.
+
+By 1989, a number of companies were hard at work trying to crack the Type 1 format or devise alternatives. Apple and Microsoft signed a cross-licensing agreement to create an alternative to Adobe technology. While Microsoft worked on TrueImage, Apple developed the TrueType format. Around the same time, PostScript "clones" were being developed to compete with Adobe. These PostScript "work-alikes" were usually bundled with "look-alike" fonts. One PostScript clone, sold by Birmy, featured a Helvetica substitute developed by Monotype called Arial. Because it matched Helvetica's proportions, it was possible to automatically substitute Arial when Helvetica was specified in a document printed on a PostScript clone output device. 
+
+What is really strange about Arial is that it appears that Monotype was uncomfortable about doing a direct copy of Helvetica. They could very easily have done that and gotten away with it. Many type manufacturers in the past have done knock-offs of Helvetica that were indistinguishable or nearly so. For better or worse, in many countries, while typeface names can be protected legally, typeface designs themseles are difficult to protect. So if you wanted to buy a typesetting machine and wanted the real Helvetica, you had to buy Linotype. If you opted to purchase Compugraphic, AM, or Alphatype typesetting equipment, you couldn't get Helvetica and instead you got Triumvirate, or Helios, or Megaron, or Newton, or whatever. Every typesetting manufacturer had its own Helvetica look-alike. It's quite possible that most of the "Helvetica" seen in the '70s was actually not Helvetica.
+
+Monotype was a respected type foundry with a glorious past and perhaps the idea of being associated with these "pirates" was unacceptable. So, instead, they devised an "original" design that just happens to share exactly the same proportions and weight as another typeface. 
+
+Later, Microsoft made Apple's TrueType the standard font format for Windows 3.1 and opted to go with Arial rather than Helvetica, probably because it was cheaper. Apple also standardized on TrueType at the same time, but went with Helvetica, not Arial, and paid Linotype's license fee. 
+
+Windows 3.1 was a big hit. Thus, Arial is now everywhere.
+
+### Reference
+
+1. Mark Simonson (February 21, 2001) "[The Scourge of Arial](https://www.marksimonson.com/notebook/view/the-scourge-of-arial/)" 
