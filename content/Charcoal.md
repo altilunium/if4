@@ -1,0 +1,7 @@
+Wood, even when dried, contains quite a bit of water and volatile compounds. The former slows the rate of combustion and absorbs the energy where the latter combusts incompletely (larger hydrocarbons are generally harder to combust completely), throwing off soot and smoke which contains carbon -- which would burn, if it had still been in the fire. All of that limits the burning temperature of wood. Common woods often burn at most around 800-900 °C.
+
+Charcoaling solves this problem. By heating the wood in conditions where there isn't enough air for it to actually ignite and burn, the water is all boiled off and the remaining solid material reduced to lumps of pure carbon (pyrolysis), which will burn much hotter (in excess of 1,150 °C). 
+
+The wood needs to be heated around 300-350 °C, well above its ignition temperature, but mostly kept from actually burning by lack of oxygen. If you let oxygen in, the wood is going to burn away all of its carbon to carbon dioxide, which will remove all of the carbon you need to actually have charcoal. The pile needs some oxygen to maintain enough combustion to keep the heat correct, but not so much that it burst into flame, nor so little that it is totally extinguished. 
+
+Moreover, as (more or less) pure carbon lumps, the charcoal doesn't have bunches of impurities which might foul iron (like the sulfur common in mineral coal).
